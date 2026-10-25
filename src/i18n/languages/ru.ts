@@ -78,6 +78,8 @@ export const ru: Translation = {
 	[Key.commentSection]: "Комментарии",
 	[Key.commentSubtitle]: "Поделитесь своими мыслями и обсудите с остальными",
 	[Key.commentNotConfigured]: "Система комментариев не настроена",
+	[Key.commentLoginHint]:
+		"Войдите через аккаунт GitHub, чтобы оставить комментарий. Сообщения синхронизируются с Discussions репозитория блога",
 	[Key.guestbookCommentHint]:
 		"Вы еще не включили систему комментариев в файле конфигурации. После включения посетители смогут оставлять сообщения здесь",
 	[Key.friends]: "Ссылки",

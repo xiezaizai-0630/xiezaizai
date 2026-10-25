@@ -78,6 +78,8 @@ export const en: Translation = {
 	[Key.commentSection]: "Comments",
 	[Key.commentSubtitle]: "Share your thoughts and discuss with everyone",
 	[Key.commentNotConfigured]: "Comment system not configured",
+	[Key.commentLoginHint]:
+		"Sign in with your GitHub account to comment. Messages are synced to the blog repository's Discussions",
 	[Key.guestbookCommentHint]:
 		"You have not enabled the comment system in the configuration file yet. After enabling it, visitors will be able to leave messages here",
 	[Key.friends]: "Friends",

@@ -78,6 +78,8 @@ export const ko: Translation = {
 	[Key.commentSection]: "댓글",
 	[Key.commentSubtitle]: "생각을 공유하고 모두와 이야기해 보세요",
 	[Key.commentNotConfigured]: "댓글 시스템이 설정되지 않았습니다",
+	[Key.commentLoginHint]:
+		"GitHub 계정으로 로그인하면 댓글을 작성할 수 있습니다. 메시지는 블로그 저장소의 Discussions에 동기화됩니다",
 	[Key.guestbookCommentHint]:
 		"설정 파일에서 댓글 시스템을 아직 활성화하지 않았습니다. 활성화하면 방문자가 이곳에 메시지를 남길 수 있습니다",
 	[Key.friends]: "친구",

@@ -78,6 +78,8 @@ export const ja: Translation = {
 	[Key.commentSection]: "コメント欄",
 	[Key.commentSubtitle]: "あなたの考えを共有し、みんなと議論しましょう",
 	[Key.commentNotConfigured]: "コメントシステムが設定されていません",
+	[Key.commentLoginHint]:
+		"GitHub アカウントでログインするとコメントできます。メッセージはブログリポジトリの Discussions に同期されます",
 	[Key.guestbookCommentHint]:
 		"設定ファイルでコメントシステムをまだ有効にしていません。有効にすると、訪問者がここにメッセージを残せるようになります",
 	[Key.friends]: "友達",

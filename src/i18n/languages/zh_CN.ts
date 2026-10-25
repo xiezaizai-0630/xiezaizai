@@ -78,6 +78,7 @@ export const zh_CN: Translation = {
 	[Key.commentSection]: "评论区",
 	[Key.commentSubtitle]: "分享你的想法，与大家交流讨论",
 	[Key.commentNotConfigured]: "评论系统暂未配置",
+	[Key.commentLoginHint]: "使用 GitHub 账号登录后即可发表评论，留言将同步至博客仓库 Discussions",
 	[Key.guestbookCommentHint]:
 		"您还未在配置文件中启用评论系统，启用后访客才可在此留言",
 	[Key.friends]: "友链",

@@ -58,6 +58,7 @@ enum I18nKey {
 	commentSection = "commentSection",
 	commentSubtitle = "commentSubtitle",
 	commentNotConfigured = "commentNotConfigured",
+	commentLoginHint = "commentLoginHint",
 	guestbookCommentHint = "guestbookCommentHint",
 
 	untitled = "untitled",
