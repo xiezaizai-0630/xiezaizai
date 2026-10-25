@@ -1,5 +1,13 @@
 import type { GalleryConfig } from "@/types/galleryConfig";
 
+// 获取今日日期（YYYY-MM-DD），构建或启动时自动更新
+function getToday(): string {
+	const now = new Date();
+	const month = String(now.getMonth() + 1).padStart(2, "0");
+	const day = String(now.getDate()).padStart(2, "0");
+	return `${now.getFullYear()}-${month}-${day}`;
+}
+
 // 相册配置
 export const galleryConfig: GalleryConfig = {
 	// 相册列表
@@ -17,11 +25,11 @@ export const galleryConfig: GalleryConfig = {
 		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
 		{
 			id: "20001108",
-			name: "谢崽崽",
+			name: "封面",
 			description: "这是一个会因为热爱而闪闪发光的女孩，留给自己的温柔存档。",
-			location: "崩坏：星穹铁道",
-			date: "2026-01-01",
-			tags: ["崩坏星穹铁道", "流萤"],
+			location: "漂亮的封面照",
+			date: getToday(),
+			tags: ["记录：封面照"],
 		},
 		{
 			id: "encrypted-test",
@@ -30,7 +38,7 @@ export const galleryConfig: GalleryConfig = {
 				"这是一个加密相册的示例，设置了访问密码，只有输入正确的密码才能查看相册内容。",
 			location: "崩坏：星穹铁道",
 			date: "2026-02-01",
-			tags: ["加密相册", "示例"],
+			tags: ["记录：封面照"],
 			password: "123456",
 			passwordHint: "示例密码123456",
 		},
