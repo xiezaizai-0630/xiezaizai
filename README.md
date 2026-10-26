@@ -16,12 +16,12 @@
 
 ## 简介
 
-这是 [Xiezaizai](https://github.com/xiezaiz-0630) 的个人博客源码仓库，用来记录生活、学习和折腾的痕迹。
+这是 [Xiezaizai](https://github.com/xiezaizai-0630) 的个人博客源码仓库，用来记录生活、学习和折腾的痕迹。
 
 站点基于 Astro 构建，静态生成，部署在 Cloudflare Pages。
 
 - **博客地址**：<https://xiezaiz.ccwu.cc/>
-- **仓库地址**：<https://github.com/xiezaiz-0630/xiezaizai>
+- **仓库地址**：<https://github.com/xiezaizai-0630/xiezaizai>
 
 ## 主要功能
 

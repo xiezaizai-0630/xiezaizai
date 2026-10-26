@@ -105,13 +105,13 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "GitHub",
-				url: "https://github.com/xiezaiz-0630",
+				url: "https://github.com/xiezaizai-0630",
 				external: true,
 				icon: "fa7-brands:github",
 			},
 			{
 				name: "博客仓库",
-				url: "https://github.com/xiezaiz-0630/xiezaizai",
+				url: "https://github.com/xiezaizai-0630/xiezaizai",
 				external: true,
 				icon: "fa7-brands:github",
 			},

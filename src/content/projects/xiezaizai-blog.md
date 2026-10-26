@@ -12,7 +12,7 @@ tags:
 link:
   - label: "GitHub"
     icon: "fa7-brands:github"
-    value: "https://github.com/xiezaiz-0630/xiezaizai"
+    value: "https://github.com/xiezaizai-0630/xiezaizai"
   - label: "在线访问"
     icon: "material-symbols:language"
     value: "https://xiezaiz.ccwu.cc/"
@@ -37,4 +37,4 @@ link:
 - 评论系统
 - RSS / Atom 订阅
 
-欢迎访问 [xiezaiz.ccwu.cc](https://xiezaiz.ccwu.cc/) 或在 [GitHub](https://github.com/xiezaiz-0630/xiezaizai) 上查看源码。
+欢迎访问 [xiezaiz.ccwu.cc](https://xiezaiz.ccwu.cc/) 或在 [GitHub](https://github.com/xiezaizai-0630/xiezaizai) 上查看源码。
