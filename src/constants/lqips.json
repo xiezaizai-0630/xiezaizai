@@ -17,7 +17,6 @@
   "src:assets/images/DesktopWallpaper/d2.avif": "e8f3e6b0bdb4f5e6de",
   "src:assets/images/DesktopWallpaper/d1.avif": "8b9bb59ba6bae7d7dd",
   "public:assets/images/ad/ad1.webp": "a1b8b68a8e918c8f93",
-  "src:content/projects/images/firefly.avif": "b5b0b3bcb6bbe0e0df",
   "src:assets/images/a1.jpg": "8c7d75ba776a9e7468",
   "src:assets/images/DesktopWallpaper/d6.jpg": "8c7d75ba776a9e7468",
   "src:assets/images/DesktopWallpaper/d5.jpg": "a4a5a388858ca59fae",
@@ -27,7 +26,5 @@
   "src:assets/images/DesktopWallpaper/d1.jpg": "7c827e7e917f8c9590",
   "public:a1.jpg": "8c7d75ba776a9e7468",
   "public:gallery/20001108/cover.jpg": "8c7d75ba776a9e7468",
-  "public:gallery/encrypted-test/cover.jpg": "8c7d75ba776a9e7468",
-  "public:assets/images/sponsor/zfb.jpg": "5f99d55795d4859fbb",
-  "public:assets/images/sponsor/wx.jpg": "58c28b56c18973c198"
+  "public:gallery/encrypted-test/cover.jpg": "8c7d75ba776a9e7468"
 }
