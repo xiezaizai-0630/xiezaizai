@@ -33,11 +33,11 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true, // 是否启用
 	},
 	{
-		title: "广告位出租-小耗子",
+		title: "社会你喵姐，人恨话不多",
 		imgurl: " ",
 		desc: " ",
 		siteurl: "https://ysir.ccwu.cc/",
-		tags: ["Docs"],
+		tags: ["Blog"],
 		weight: 9,
 		enabled: true,
 	},
